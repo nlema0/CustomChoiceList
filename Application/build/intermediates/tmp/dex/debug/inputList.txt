@@ -1,0 +1,4 @@
+C:\Users\maef57\AndroidStudioProjects\CustomChoiceList\Application\build\intermediates\classes\debug
+C:\Users\maef57\AndroidStudioProjects\CustomChoiceList\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-295436cb6d70bde308e6b18fa1f4b4b60f7a918e.jar
+C:\Users\maef57\AndroidStudioProjects\CustomChoiceList\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-c58d5e773ac156d2c00a162c70556b3913a3d4ec.jar
+C:\Users\maef57\AndroidStudioProjects\CustomChoiceList\Application\build\intermediates\pre-dexed\debug\classes-210fc555a5f65b7fbee968b9904be36a597cffe4.jar
